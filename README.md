@@ -136,12 +136,6 @@ Developed during internship at Smarted to improve business forecasting accuracy 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KrithickkumarSivakumar10&theme=radical&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrithickkumarSivakumar10&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 
 </div>
