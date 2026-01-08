@@ -175,7 +175,7 @@ Built a GRU-based TinyML model on ESP32 to predict rainfall and irrigation needs
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KrithickkumarSivakumar10&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+
 
 </div>
 
