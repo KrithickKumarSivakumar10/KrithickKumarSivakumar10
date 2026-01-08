@@ -14,6 +14,21 @@
 
 ---
 
+## Table of Contents
+- [About Me](#about-me)
+- [Education](#education)
+- [Technical Skills](#technical-skills)
+- [Professional Experience](#professional-experience)
+- [Featured Projects](#featured-projects)
+- [Achievements & Recognition](#achievements--recognition)
+- [Certifications](#certifications)
+- [GitHub Statistics](#github-statistics)
+- [Current Focus](#current-focus)
+- [Learning Roadmap](#learning-roadmap)
+- [Connect With Me](#connect-with-me)
+
+---
+
 ## ABOUT ME
 
 Third-year Computer Science Engineering student at Sri Venkateswara College of Engineering, Chennai, with a strong foundation in data science, machine learning, and software development. Passionate about building intelligent systems and data-driven solutions that solve real-world problems.
@@ -21,9 +36,18 @@ Third-year Computer Science Engineering student at Sri Venkateswara College of E
 Currently focused on expanding expertise in machine learning algorithms, natural language processing, and full-stack development. Proven ability to deliver results through professional internships, competitive hackathons, and academic excellence.
 
 **Location:** Puducherry, India  
-**Education:** Bachelor of Engineering - Computer Science & Engineering  
+**Education:** Bachelor of Engineering - Computer Science & Engineering (GPA: 8.1/10)  
 **Expected Graduation:** June 2027  
 **Recent Achievement:** First Place Winner - RotaTechX Hackathon 2025
+
+---
+
+## EDUCATION
+
+**Bachelor of Engineering in Computer Science and Engineering**  
+*Sri Venkateswara College of Engineering, Chennai, India*  
+- **Grade:** 8.1 / 10  
+- **Expected Graduation:** June 2027
 
 ---
 
@@ -35,6 +59,24 @@ Currently focused on expanding expertise in machine learning algorithms, natural
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Web Technologies**  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white)
+
+**Backend & Frameworks**  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Struts](https://img.shields.io/badge/Struts-0054A5?style=flat-square&logo=apache&logoColor=white)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**API & Data Handling**  
+![REST APIs](https://img.shields.io/badge/REST_APIs-4488FF?style=flat-square&logo=json&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 
 **Data Science & Machine Learning**  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -53,13 +95,20 @@ Currently focused on expanding expertise in machine learning algorithms, natural
 
 ## PROFESSIONAL EXPERIENCE
 
-### Data Science Intern | Smarted
+### Data Science Intern | SmartED
 **January 2025 - March 2025** | Remote
 
 - Developed supervised learning models using Random Forest and Linear Regression techniques, achieving 15% improvement in predictive accuracy over baseline models
 - Processed and analyzed over 1 million data records using Pandas and NumPy, optimizing model performance and reducing preprocessing time by 30%
 - Applied Python-based data science methodologies to deliver actionable business insights through interactive analytics dashboards
 - Collaborated with cross-functional teams to translate complex data findings into strategic recommendations for decision-making processes
+
+### Intern - Backend / AI Systems Development | Zoho
+**December 2025 - Present** | On-site
+
+- Implemented nested array and YAML extraction modes to process and normalize 1,000+ real-world API responses, enabling reliable tabular mapping of deeply nested data structures
+- Developed a Flask-based multi-agent chatbot system handling hundreds of user-agent interactions per session, with structured JSON conversation storage and agent-level isolation
+- Built and debugged end-to-end request-response pipelines, validating and transforming 1,000+ API payloads, reducing parsing errors and improving response consistency across agents
 
 ---
 
@@ -73,25 +122,22 @@ Built an end-to-end sentiment analysis system that processes and classifies movi
 **Key Features:**
 - Processed 2,500+ movie reviews with 87% classification accuracy using Naive Bayes algorithm
 - Implemented TF-IDF vectorization for feature extraction from text data
-- Developed preprocessing pipeline including tokenization, stop-word removal, and lemmatization
+- Developed preprocessing pipeline including tokenization, stop-word removal, and lemmatization, improving model performance by 12%
 - Created interactive visualization dashboard displaying sentiment distribution and word clouds
 
 **Skills Demonstrated:** Machine Learning, Natural Language Processing, Data Preprocessing, Data Visualization
 
----
+### Smart Irrigation System using TinyML
+**Tech Stack:** Python | C++ | ESP32/ESP8266 | LoRa | DHT22 | GRU Neural Network
 
-### Predictive Analytics Engine
-**Tech Stack:** Python | Regression Analysis | Data Science | Statistical Modeling
-
-Developed during internship at Smarted to improve business forecasting accuracy through advanced machine learning techniques.
+Built a GRU-based TinyML model on ESP32 to predict rainfall and irrigation needs with 90% accuracy.
 
 **Key Features:**
-- Built supervised learning models using multiple regression techniques
-- Processed large-scale datasets containing 1M+ records for model training and validation
-- Implemented performance optimization algorithms to enhance prediction accuracy
-- Generated actionable insights through comprehensive data analysis and reporting
+- Engineered a solar-powered, low-cost system integrating ESP8266, DHT22, and LoRa modules for offline operation
+- Reduced water consumption by 50-60%, enabling sustainable farming in arid regions
+- Developed predictive models for rainfall and irrigation scheduling using TinyML techniques
 
-**Skills Demonstrated:** Regression Analysis, Data Processing, Model Optimization, Business Intelligence
+**Skills Demonstrated:** Embedded Systems, IoT, Neural Networks, Sustainable Technology, Edge Computing
 
 ---
 
@@ -100,7 +146,7 @@ Developed during internship at Smarted to improve business forecasting accuracy 
 ### RotaTechX Hackathon - First Place Winner
 **April 2025** | UniQ Solutions, Taramani, Chennai
 
-- Secured first position among 25+ competing teams, winning INR 20,000 cash prize
+- Secured first position among 50+ competing teams, winning INR 20,000 cash prize
 - Developed AI-powered climate resilience solution addressing sustainability challenges through data-driven innovation
 - Created dynamic web application prototype demonstrating real-time environmental impact visualization
 - Led technical presentation and defended solution architecture before industry expert judges
@@ -118,10 +164,10 @@ Developed during internship at Smarted to improve business forecasting accuracy 
 
 ## CERTIFICATIONS
 
-- **Machine Learning** - Professional Certification
-- **Python Programming** - Advanced Level Certification
-- **Java Programming** - Professional Certification  
-- **ChatGPT & AI Applications** - Specialized Training
+- **Advanced Learning Algorithm** - DeepLearning
+- **AI Supervised Machine Learning: Regression and Classification** - DeepLearning
+- **Python Programming** - HCL GUVI
+- **ChatGPT & AI Applications** - HCL GUVI
 
 ---
 
@@ -189,7 +235,7 @@ I am always interested in collaborating on innovative projects, especially in ma
 
 ### "First, solve the problem. Then, write the code." – John Johnson
 
-**Last Updated:** October 2025
+**Last Updated:** November 2025
 
 **Star my repositories if you find them useful!**
 
