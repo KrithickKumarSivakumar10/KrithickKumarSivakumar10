@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krithickkumarsivakumar/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krithickkumarsivakumar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KrithickkumarSivakumar10)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://krithickkumarsivakumar10.github.io/krithick-spidey-portfolio/)
+
 
 <img src="https://komarev.com/ghpvc/?username=KrithickkumarSivakumar10&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
