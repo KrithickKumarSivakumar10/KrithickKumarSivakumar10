@@ -2,7 +2,7 @@
 
 # KRITHICK KUMAR SIVAKUMAR
 
-### Backend Engineer | ML Systems Developer | Multi-Agent AI Architect
+### Computer Science Engineer | Data Science Enthusiast | Problem Solver
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krithickkumarsivakumar/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krithickkumarsivakumar@gmail.com)
@@ -15,119 +15,218 @@
 
 ---
 
-## 👨‍💻 ABOUT ME
-
-Third-year CSE student building **production-grade backend systems and multi-agent AI**. Interning at Zoho on conversational AI architecture. Passionate about measurable impact through clean code and intelligent systems.
-
-**Recent:** 🏆 1st Place @ RotaTechX Hackathon (₹20,000)  
-**Location:** Puducherry, India | **Graduating:** June 2027 | **GPA:** 8.1/10
-
----
-
-## 🎓 EDUCATION
-
-**B.E. Computer Science & Engineering**  
-*Sri Venkateswara College of Engineering, Chennai*  
-CGPA: 8.1/10 | June 2027
+## Table of Contents
+- [About Me](#about-me)
+- [Education](#education)
+- [Technical Skills](#technical-skills)
+- [Professional Experience](#professional-experience)
+- [Featured Projects](#featured-projects)
+- [Achievements & Recognition](#achievements--recognition)
+- [Certifications](#certifications)
+- [Current Focus](#current-focus)
+- [Learning Roadmap](#learning-roadmap)
+- [Connect With Me](#connect-with-me)
 
 ---
 
-## 💼 EXPERIENCE
+## ABOUT ME
 
-### **Backend/AI Systems Intern** @ Zoho  
-Dec 2025 – Present | Chennai
+Third-year Computer Science Engineering student at Sri Venkateswara College of Engineering, Chennai, with a strong foundation in data science, machine learning, and software development. Passionate about building intelligent systems and data-driven solutions that solve real-world problems.
 
-- Normalized 1,000+ API responses via nested array/YAML extraction modes
-- Built Flask-based multi-agent chat system handling hundreds of interactions/session
-- Reduced parsing errors through request-response pipeline validation
-- Implemented deterministic delegation logic for agent task routing
+Currently focused on expanding expertise in machine learning algorithms, natural language processing, and full-stack development. Proven ability to deliver results through professional internships, competitive hackathons, and academic excellence.
 
-### **Data Science Intern** @ SmartED  
-Jan – Mar 2025 | Remote
-
-- Improved model accuracy by 15% using Random Forest/Linear Regression
-- Cut preprocessing time 65% (20min → 7min) for 100,000+ records
-- Delivered Python analytics dashboards to cross-functional team of 5
+**Location:** Puducherry, India  
+**Education:** Bachelor of Engineering - Computer Science & Engineering (GPA: 8.1/10)  
+**Expected Graduation:** June 2027  
+**Recent Achievement:** First Place Winner - RotaTechX Hackathon 2025
 
 ---
 
-## 🚀 PROJECTS
+## EDUCATION
 
-### **Multi-Agent Chat Orchestration**  
-Jan 2026 – Present
-
-- 5+ specialized agents with SQLite/JSON session storage
-- Causal workflow viewer reduced debugging time by 60-70%
-- Modular architecture for scalable agent integration
-
-### **Smart Irrigation (TinyML)**  
-Nov 2024 – Jan 2025
-
-- GRU model on ESP32: 70% rainfall prediction accuracy
-- Reduced water usage 50-60% for arid region farming
-- Solar-powered ESP8266 + LoRa + DHT22 system
-
-### **Movie Sentiment Analyzer**  
-NLP project processing 2,500+ reviews with 87% accuracy using Naive Bayes + TF-IDF
+**Bachelor of Engineering in Computer Science and Engineering**  
+*Sri Venkateswara College of Engineering, Chennai, India*  
+- **Grade:** 8.1 / 10  
+- **Expected Graduation:** June 2027
 
 ---
 
-## 🏆 ACHIEVEMENTS
+## TECHNICAL SKILLS
 
-- **🏆 RotaTechX Hackathon 2025** – 1st Place (₹20,000) among 50+ teams
-- **📢 Class Representative** – Coordinated 70+ students, 5+ technical events, NBA accreditation
+**Programming Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Web Technologies**  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white)
+
+**Backend & Frameworks**  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Struts](https://img.shields.io/badge/Struts-0054A5?style=flat-square&logo=apache&logoColor=white)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**API & Data Handling**  
+![REST APIs](https://img.shields.io/badge/REST_APIs-4488FF?style=flat-square&logo=json&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+
+**Data Science & Machine Learning**  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
 ---
 
-## 📜 CERTIFICATIONS
+## PROFESSIONAL EXPERIENCE
 
-- Advanced Learning Algorithms – DeepLearning.AI
-- AI Supervised ML – DeepLearning.AI
-- Python Programming – HCL GUVI
-- ChatGPT & AI Applications – HCL GUVI
+### Data Science Intern | SmartED
+**January 2025 - March 2025** | Remote
+
+- Developed supervised learning models using Random Forest and Linear Regression techniques, achieving 15% improvement in predictive accuracy over baseline models
+- Processed and analyzed over 1 million data records using Pandas and NumPy, optimizing model performance and reducing preprocessing time by 30%
+- Applied Python-based data science methodologies to deliver actionable business insights through interactive analytics dashboards
+- Collaborated with cross-functional teams to translate complex data findings into strategic recommendations for decision-making processes
+
+### Intern - Backend / AI Systems Development | Zoho
+**December 2025 - Present** | On-site
+
+- Implemented nested array and YAML extraction modes to process and normalize 1,000+ real-world API responses, enabling reliable tabular mapping of deeply nested data structures
+- Developed a Flask-based multi-agent chatbot system handling hundreds of user-agent interactions per session, with structured JSON conversation storage and agent-level isolation
+- Built and debugged end-to-end request-response pipelines, validating and transforming 1,000+ API payloads, reducing parsing errors and improving response consistency across agents
 
 ---
 
-## 🛠️ SKILLS
+## FEATURED PROJECTS
 
-**Languages:** Python, Java, C++, C, SQL  
-**Backend:** Flask, Struts, REST APIs  
-**Databases:** MySQL, PostgreSQL, SQLite  
-**ML/Data:** Scikit-learn, Pandas, NumPy, Matplotlib  
-**Tools:** Git, VS Code, Jupyter, JSON/YAML parsing
+### Multi-Agent-Orchestrated Chat System
+**Jan 2026 – Present**
+
+Built a deterministic multi-agent orchestration platform consisting of a **General Agent and 5+ specialized agents**, enabling structured task delegation and conversational reasoning.
+
+**Key Features:**
+- Implemented persistent conversation storage using **SQLite and structured JSON logs**, capturing 100% of user and agent interactions across sessions
+- Developed a **Causal Output Workflow Viewer (User → General Agent → Child Agent → Final Output)** to track delegation chains and reasoning transparency
+- Reduced debugging time by approximately **60–70%** through session-based execution replay and traceability
+- Designed agent lifecycle management and modular extension architecture for scalable agent integration
+
+**Skills Demonstrated:** Multi-Agent Systems, Flask, SQLite, JSON, System Architecture
 
 ---
 
-## 📊 GITHUB STATS
+### Smart Irrigation System using TinyML
+**Nov 2024 – Jan 2025**
+
+Built a **GRU-based TinyML rainfall prediction model** deployed on **ESP32**, achieving approximately **70% prediction accuracy** under constrained edge-device memory.
+
+**Key Features:**
+- Engineered a **solar-powered, low-cost system** integrating **ESP8266, DHT22 sensors, and LoRa modules** for offline farm deployment
+- Reduced water consumption by **50–60%**, improving irrigation efficiency in arid and semi-arid agricultural regions
+- Optimized model size and inference speed to run within microcontroller memory constraints
+- Designed embedded firmware for real-time sensor data ingestion and actuation
+
+**Skills Demonstrated:** Embedded Systems, IoT, TinyML, Neural Networks, Edge Computing
+
+---
+
+### Movie Review Sentiment Analyzer
+**Tech Stack:** Python | NLP | Scikit-learn | Pandas | Matplotlib
+
+Built an end-to-end sentiment analysis system that processes and classifies movie reviews using machine learning and NLP techniques.
+
+**Key Features:**
+- Processed **2,500+ movie reviews** with **87% classification accuracy** using Naive Bayes algorithm
+- Implemented **TF-IDF vectorization** for feature extraction from text data
+- Developed preprocessing pipeline including tokenization, stop-word removal, and lemmatization, improving model performance by **12%**
+- Created interactive visualization dashboard displaying sentiment distribution and word clouds
+
+**Skills Demonstrated:** Machine Learning, Natural Language Processing, Data Preprocessing, Data Visualization
+
+---
+
+## ACHIEVEMENTS & RECOGNITION
+
+### RotaTechX Hackathon - First Place Winner
+**April 2025** | UniQ Solutions, Taramani, Chennai
+
+- Secured first position among 50+ competing teams, winning INR 20,000 cash prize
+- Developed AI-powered climate resilience solution addressing sustainability challenges through data-driven innovation
+- Created dynamic web application prototype demonstrating real-time environmental impact visualization
+- Led technical presentation and defended solution architecture before industry expert judges
+- Demonstrated ability to work under pressure, think creatively, and deliver functional prototypes within tight deadlines
+
+### Class Representative | Sri Venkateswara College of Engineering
+**July 2024 - June 2025**
+
+- Served as primary liaison between faculty members and 70+ students, facilitating effective communication and coordination
+- Managed academic schedules, project milestones, and examination logistics for entire class
+- Coordinated documentation and student organization for NBA Accreditation processes
+- Organized and managed logistics for 5+ college-level technical events, enhancing peer collaboration and teamwork
+
+---
+
+## CERTIFICATIONS
+
+- **Advanced Learning Algorithm** - DeepLearning
+- **AI Supervised Machine Learning: Regression and Classification** - DeepLearning
+- **Python Programming** - HCL GUVI
+- **ChatGPT & AI Applications** - HCL GUVI
+
+---
+
+## CURRENT FOCUS
+
+- Building end-to-end machine learning pipelines for real-world applications
+- Exploring advanced Natural Language Processing techniques and transformer models
+- Developing full-stack web applications with modern frameworks
+- Competitive programming and data structures & algorithms optimization
+- Contributing to open-source data science and AI projects
+
+---
+
+## LEARNING ROADMAP
+
+**Currently Learning:**
+- Deep Learning and Neural Networks
+- Advanced Data Structures and Algorithms
+- Cloud Technologies (AWS/Azure)
+- System Design Principles
+
+**Future Goals:**
+- Master full-stack development frameworks
+- Contribute to major open-source AI/ML projects
+- Publish research papers in machine learning domain
+- Build scalable SaaS applications
+
+---
+
+## CONNECT WITH ME
 
 <div align="center">
 
-<!-- GitHub Stats - If images don't load, refresh page or check https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=KrithickkumarSivakumar10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="150"/>
+I am always interested in collaborating on innovative projects, especially in machine learning, data science, and software development. Feel free to reach out for collaboration opportunities, project discussions, or technical consulting.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrithickkumarSivakumar10&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="150"/>
+**Open to:** Internship Opportunities | Project Collaborations | Technical Discussions | Open Source Contributions
 
-</div>
+<br>
 
----
-
-## 🎯 CURRENT FOCUS
-
-- Production multi-agent AI systems
-- Advanced NLP & transformer models
-- Distributed systems design
-- Open-source ML contributions
-
----
-
-## 🤝 CONNECT
-
-<div align="center">
-
-**Open to:** Internships | Collaborations | Technical Discussions
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krithickkumarsivakumar/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krithickkumarsivakumar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krithick_Kumar_Sivakumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krithickkumarsivakumar/)
+[![Gmail](https://img.shields.io/badge/Gmail-krithickkumarsivakumar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krithickkumarsivakumar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KrithickkumarSivakumar10)
 
 </div>
@@ -136,7 +235,11 @@ NLP project processing 2,500+ reviews with 87% accuracy using Naive Bayes + TF-I
 
 <div align="center">
 
-⭐ **Star my repos if you find them useful!**  
-**Last Updated:** January 2026
+### "First, solve the problem. Then, write the code." – John Johnson
+
+**Last Updated:** November 2025
+
+**Star my repositories if you find them useful!**
 
 </div>
+```
