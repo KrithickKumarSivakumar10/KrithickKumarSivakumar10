@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # KRITHICK KUMAR SIVAKUMAR
@@ -102,8 +101,12 @@ NLP project processing 2,500+ reviews with 87% accuracy using Naive Bayes + TF-I
 ## 📊 GITHUB STATS
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KrithickkumarSivakumar10&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrithickkumarSivakumar10&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+<!-- GitHub Stats - If images don't load, refresh page or check https://github.com/anuraghazra/github-readme-stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=KrithickkumarSivakumar10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrithickkumarSivakumar10&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="150"/>
+
 </div>
 
 ---
@@ -137,4 +140,3 @@ NLP project processing 2,500+ reviews with 87% accuracy using Naive Bayes + TF-I
 **Last Updated:** January 2026
 
 </div>
-```
