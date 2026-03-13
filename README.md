@@ -104,7 +104,7 @@ Currently focused on expanding expertise in machine learning algorithms, natural
 - Collaborated with cross-functional teams to translate complex data findings into strategic recommendations for decision-making processes
 
 ### Intern - Backend / AI Systems Development | Zoho
-**December 2025 - Present** | On-site
+**December 2025 - January 2026** | On-site
 
 - Implemented nested array and YAML extraction modes to process and normalize 1,000+ real-world API responses, enabling reliable tabular mapping of deeply nested data structures
 - Developed a Flask-based multi-agent chatbot system handling hundreds of user-agent interactions per session, with structured JSON conversation storage and agent-level isolation
@@ -114,18 +114,18 @@ Currently focused on expanding expertise in machine learning algorithms, natural
 
 ## FEATURED PROJECTS
 
-### Multi-Agent-Orchestrated Chat System
+### Multi-Agent AI Chatbot Platform
 **Jan 2026 – Present**
 
-Built a deterministic multi-agent orchestration platform consisting of a **General Agent and 5+ specialized agents**, enabling structured task delegation and conversational reasoning.
+Built a multi-agent chatbot platform with a **General Orchestrator + N specialized agents**, enabling agent creation, management, and real-time chat through a single interface.
 
 **Key Features:**
-- Implemented persistent conversation storage using **SQLite and structured JSON logs**, capturing 100% of user and agent interactions across sessions
-- Developed a **Causal Output Workflow Viewer (User → General Agent → Child Agent → Final Output)** to track delegation chains and reasoning transparency
-- Reduced debugging time by approximately **60–70%** through session-based execution replay and traceability
-- Designed agent lifecycle management and modular extension architecture for scalable agent integration
+- Implemented end-to-end conversation storage using **SQLite + JSON logs**, capturing **100% of user and agent messages** and improving debugging and traceability by **3×**
+- Developed an **Output Workflow Viewer (User → General Agent → Child Agent → Final Output)** with session-based delegation tracking, reducing workflow investigation time by **~70%**
+- Designed modular agent lifecycle management enabling seamless integration of new specialized agents
+- Built intuitive interface for real-time multi-agent orchestration and conversation monitoring
 
-**Skills Demonstrated:** Multi-Agent Systems, Flask, SQLite, JSON, System Architecture
+**Skills Demonstrated:** Multi-Agent Systems, Flask, SQLite, JSON, System Architecture, Python
 
 ---
 
@@ -141,21 +141,6 @@ Built a **GRU-based TinyML rainfall prediction model** deployed on **ESP32**, ac
 - Designed embedded firmware for real-time sensor data ingestion and actuation
 
 **Skills Demonstrated:** Embedded Systems, IoT, TinyML, Neural Networks, Edge Computing
-
----
-
-### Movie Review Sentiment Analyzer
-**Tech Stack:** Python | NLP | Scikit-learn | Pandas | Matplotlib
-
-Built an end-to-end sentiment analysis system that processes and classifies movie reviews using machine learning and NLP techniques.
-
-**Key Features:**
-- Processed **2,500+ movie reviews** with **87% classification accuracy** using Naive Bayes algorithm
-- Implemented **TF-IDF vectorization** for feature extraction from text data
-- Developed preprocessing pipeline including tokenization, stop-word removal, and lemmatization, improving model performance by **12%**
-- Created interactive visualization dashboard displaying sentiment distribution and word clouds
-
-**Skills Demonstrated:** Machine Learning, Natural Language Processing, Data Preprocessing, Data Visualization
 
 ---
 
@@ -237,9 +222,8 @@ I am always interested in collaborating on innovative projects, especially in ma
 
 ### "First, solve the problem. Then, write the code." – John Johnson
 
-**Last Updated:** November 2025
+**Last Updated:** January 2026
 
-**Star my repositories if you find them useful!**
+**⭐ Star my repositories if you find them useful!**
 
 </div>
-```
