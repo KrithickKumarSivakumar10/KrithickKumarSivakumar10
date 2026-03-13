@@ -104,7 +104,7 @@ Currently focused on expanding expertise in machine learning algorithms, natural
 - Collaborated with cross-functional teams to translate complex data findings into strategic recommendations for decision-making processes
 
 ### Intern - Backend / AI Systems Development | Zoho
-**December 2025 - January 2026** | On-site
+**December 2025 - March 2026** | On-site
 
 - Implemented nested array and YAML extraction modes to process and normalize 1,000+ real-world API responses, enabling reliable tabular mapping of deeply nested data structures
 - Developed a Flask-based multi-agent chatbot system handling hundreds of user-agent interactions per session, with structured JSON conversation storage and agent-level isolation
@@ -115,7 +115,7 @@ Currently focused on expanding expertise in machine learning algorithms, natural
 ## FEATURED PROJECTS
 
 ### Multi-Agent AI Chatbot Platform
-**Jan 2026 – Present**
+**Jan 2026 – March 2026**
 
 Built a multi-agent chatbot platform with a **General Orchestrator + N specialized agents**, enabling agent creation, management, and real-time chat through a single interface.
 
@@ -222,7 +222,7 @@ I am always interested in collaborating on innovative projects, especially in ma
 
 ### "First, solve the problem. Then, write the code." – John Johnson
 
-**Last Updated:** January 2026
+**Last Updated:** March 2026
 
 **⭐ Star my repositories if you find them useful!**
 
